@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+#chicken, #beef, #sushi{
+    background-color: aqua;
+    padding: 40px;
+    margin: 40px;
+
+}
+p{
+    justify-content: center;
+    font-weight: bold;
+
+}
